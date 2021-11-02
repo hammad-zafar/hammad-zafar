@@ -1,9 +1,7 @@
--<h1 align="center">Hi 👋, I'm Hammad Zafar</h1>
+<h1 align="center">Hi 👋, I'm Hammad Zafar</h1>
 <h3 align="center">A passionate frontend developer from Netherland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-zafar&label=Views&color=0e75b6&style=flat" alt="hammad-zafar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/hammadz09744301" target="blank"><img src="https://img.shields.io/twitter/follow/hammadz09744301?logo=twitter&style=for-the-badge" alt="hammadz09744301" /></a> </p>
 
 - 🔭 I’m currently working on **Visual Studio Code**
 
@@ -16,8 +14,6 @@
 - 💬 Ask me about **anything.**
 
 - 📫 How to reach me **hammad.holland@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hammad-zafar-36b462223/](https://www.linkedin.com/in/hammad-zafar-36b462223/)
 
 - ⚡ Fun fact **i love vlogging and videography.**
 
