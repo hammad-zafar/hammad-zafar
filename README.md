@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 🤝 I’m looking for help with **everyone**
+- 🤝 I’m looking for help with **Code++**
 
 - 💬 Ask me about **anything.**
 
