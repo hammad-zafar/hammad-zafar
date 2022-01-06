@@ -20,8 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hamma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamma/" height="30" width="40" /></a>
-</p>
-<p align="left">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hammad.holland@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" alt="https://mail.google.com/mail/?view=cm&fs=1&to=hammad.holland@gmail.com" height="30" width="40" /></a>
 </p>
 
